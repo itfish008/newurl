@@ -25,12 +25,17 @@
     </div>
 
     <script>
-        // 显示脚本运行结束时的时间
-        const scriptEndTime = new Date();
-        const options = { timeZone: 'Asia/Shanghai', hour12: false };
-        const beijingEndTime = scriptEndTime.toLocaleString('zh-CN', options);
-        document.getElementById('scriptEndTime').innerHTML = 
-            `<p>脚本运行结束时间: ${beijingEndTime}</p>`;
+        // 加载并显示脚本运行结束时间
+        fetch('end_time.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('scriptEndTime').innerHTML = 
+                    `<p>数据更新时间: ${data.end_time}</p>`;
+            })
+            .catch(error => {
+                document.getElementById('scriptEndTime').innerHTML = 
+                    '<p>无法加载更新时间</p>';
+            });
 
         // 加载最新的新增 URL
         fetch('latest_new_urls.json')
