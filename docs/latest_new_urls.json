@@ -1,9 +1,25 @@
 {
+<<<<<<< HEAD
     "timestamp": "2025-03-03_15-17-05",
     "crawl_time": "2025-03-03 15:17:05",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
             "https://poki.com/en/g/survival-cats-456"
+=======
+    "timestamp": "2025-03-03_14-02-09",
+    "crawl_time": "2025-03-03 14:02:09",
+    "urls": {
+        "itch.io": [
+            "https://romeosdaydream.itch.io/manhole-cover",
+            "https://topihathat.itch.io/snow-game",
+            "https://superstupidnoob.itch.io/match-it-up-web",
+            "https://pancelor.itch.io/poke",
+            "https://danmare.itch.io/isolated-outpost",
+            "https://nozdorm.itch.io/manholemyversion",
+            "https://drawlith.itch.io/operator-slide",
+            "https://santipr.itch.io/monedasoprueba",
+            "https://tealsquid.itch.io/fruity-free-for-all"
+>>>>>>> bb9f2f8 (add crazygames.com/new games)
         ]
     }
 }

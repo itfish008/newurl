@@ -8,7 +8,20 @@
         "total_new_urls": 405
     },
     {
+<<<<<<< HEAD
         "timestamp": "2025-03-03_15-17-05",
         "total_new_urls": 1
+=======
+        "timestamp": "2025-03-02_13-03-53",
+        "total_new_urls": 721
+    },
+    {
+        "timestamp": "2025-03-03_05-24-21",
+        "total_new_urls": 1799
+    },
+    {
+        "timestamp": "2025-03-03_14-02-09",
+        "total_new_urls": 9
+>>>>>>> bb9f2f8 (add crazygames.com/new games)
     }
 ]
