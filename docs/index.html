@@ -29,34 +29,20 @@
         // 将时间转换为北京时间的函数
         function toBeiJingTime(timeStr) {
             try {
-                // 解析输入的时间字符串
                 const date = new Date(timeStr.replace(/_/g, ' ').replace(/-/g, '/'));
-                
-                // 如果解析失败，直接返回原始字符串
                 if (isNaN(date.getTime())) {
                     return timeStr;
                 }
-                
-                // 获取时区偏移量（分钟）
                 const offsetMinutes = date.getTimezoneOffset();
-                
-                // 北京时间比UTC快8小时（480分钟）
                 const beijingOffsetMinutes = -480;
-                
-                // 计算需要调整的分钟数
                 const adjustMinutes = beijingOffsetMinutes - offsetMinutes;
-                
-                // 创建新的日期对象，调整为北京时间
                 const beijingDate = new Date(date.getTime() + adjustMinutes * 60000);
-                
-                // 格式化为 YYYY-MM-DD HH:MM:SS
                 const year = beijingDate.getFullYear();
                 const month = String(beijingDate.getMonth() + 1).padStart(2, '0');
                 const day = String(beijingDate.getDate()).padStart(2, '0');
                 const hours = String(beijingDate.getHours()).padStart(2, '0');
                 const minutes = String(beijingDate.getMinutes()).padStart(2, '0');
                 const seconds = String(beijingDate.getSeconds()).padStart(2, '0');
-                
                 return `${year}-${month}-${day} ${hours}:${minutes}:${seconds} (北京时间)`;
             } catch (e) {
                 console.error('时间转换错误:', e);
@@ -64,7 +50,6 @@
             }
         }
 
-        // 加载并显示脚本运行结束时间
         fetch('end_time.json')
             .then(response => response.json())
             .then(data => {
@@ -76,45 +61,33 @@
                     '<p>无法加载更新时间</p>';
             });
 
-        // 加载最新的新增 URL
         fetch('latest_new_urls.json')
             .then(response => response.json())
             .then(data => {
                 const urlsDiv = document.getElementById('newUrls');
-                
-                // 显示爬取时间（如果存在）
                 if (data.crawl_time) {
                     document.getElementById('crawlTime').innerHTML = 
                         `<p>数据爬取时间: ${toBeiJingTime(data.crawl_time)}</p>`;
                 }
-                
-                // 显示时间戳（如果存在）
                 if (data.timestamp) {
                     document.getElementById('lastUpdate').innerHTML = 
                         `<p>最后更新时间: ${toBeiJingTime(data.timestamp.replace(/_/g, ' '))}</p>`;
                 }
-                
                 const allUrls = Object.keys(data.urls).reduce((acc, sitemap) => {
                     return acc.concat(data.urls[sitemap]);
                 }, []);
-                
-                // 直接截取前100个
                 const top100Urls = allUrls.slice(0, 100);
                 const latest20Urls = top100Urls.slice(0, 20);
                 const history80Urls = top100Urls.slice(20);
 
-                // 显示最新的20个URL
                 if (latest20Urls.length > 0) {
                     const latestCard = document.createElement('div');
                     latestCard.className = 'card mb-3';
-                    
                     const latestHeader = document.createElement('div');
                     latestHeader.className = 'card-header';
                     latestHeader.textContent = `最新 20 个 URL`;
-                    
                     const latestBody = document.createElement('div');
                     latestBody.className = 'card-body';
-                    
                     const latestList = document.createElement('ul');
                     latestList.className = 'list-group';
                     latest20Urls.forEach(url => {
@@ -127,26 +100,21 @@
                         item.appendChild(link);
                         latestList.appendChild(item);
                     });
-                    
                     latestBody.appendChild(latestList);
                     latestCard.appendChild(latestHeader);
                     latestCard.appendChild(latestBody);
                     urlsDiv.appendChild(latestCard);
                 }
 
-                // 显示历史记录中的80个URL
                 const historyDiv = document.getElementById('history');
                 if (history80Urls.length > 0) {
                     const historyCard = document.createElement('div');
                     historyCard.className = 'card mb-3';
-                    
                     const historyHeader = document.createElement('div');
                     historyHeader.className = 'card-header';
                     historyHeader.textContent = `历史记录中的 80 个 URL`;
-                    
                     const historyBody = document.createElement('div');
                     historyBody.className = 'card-body';
-                    
                     const historyList = document.createElement('ul');
                     historyList.className = 'list-group';
                     history80Urls.forEach(url => {
@@ -159,7 +127,6 @@
                         item.appendChild(link);
                         historyList.appendChild(item);
                     });
-                    
                     historyBody.appendChild(historyList);
                     historyCard.appendChild(historyHeader);
                     historyCard.appendChild(historyBody);
@@ -171,17 +138,14 @@
                     '<div class="alert alert-warning">暂无新增 URL 数据</div>';
             });
             
-        // 加载历史记录
         fetch('history.json')
             .then(response => response.json())
             .then(data => {
                 const historyDiv = document.getElementById('history');
                 const table = document.createElement('table');
                 table.className = 'table table-striped';
-                
                 const thead = document.createElement('thead');
                 thead.innerHTML = '<tr><th>时间</th><th>新增 URL 数量</th></tr>';
-                
                 const tbody = document.createElement('tbody');
                 data.reverse().forEach(item => {
                     const row = document.createElement('tr');
@@ -191,7 +155,6 @@
                     `;
                     tbody.appendChild(row);
                 });
-                
                 table.appendChild(thead);
                 table.appendChild(tbody);
                 historyDiv.appendChild(table);
