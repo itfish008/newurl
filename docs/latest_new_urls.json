@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-03-07_16-18-30",
-    "crawl_time": "2025-03-07 16:18:30",
+    "timestamp": "2025-03-10_17-14-36",
+    "crawl_time": "2025-03-10 17:14:36",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/tropical-beach-drop",
-            "https://poki.com/en/g/hexellent",
-            "https://poki.com/en/g/my-cozy-home"
+            "https://poki.com/en/g/slime-journey"
         ]
     }
 }
