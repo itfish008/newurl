@@ -1,9 +1,14 @@
 {
-    "timestamp": "2025-03-17_20-16-52",
-    "crawl_time": "2025-03-17 20:16:52",
+    "timestamp": "2025-03-17_21-14-28",
+    "crawl_time": "2025-03-17 21:14:28",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/shenzhen-mahjong"
+            "https://poki.com/en/g/terradome",
+            "https://poki.com/en/g/plane-wars",
+            "https://poki.com/en/g/tower-merge",
+            "https://poki.com/en/g/harvest-simulator",
+            "https://poki.com/en/g/horse-dress-up",
+            "https://poki.com/en/g/ranch-ufo"
         ]
     }
 }
