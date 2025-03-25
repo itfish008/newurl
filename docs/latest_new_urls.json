@@ -1,9 +1,17 @@
 {
-    "timestamp": "2025-03-19_15-16-34",
-    "crawl_time": "2025-03-19 15:16:34",
+    "timestamp": "2025-03-25_08-20-47",
+    "crawl_time": "2025-03-25 08:20:47",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/tiny-towers"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-isocubes",
+            "https://www.coolmathgames.com/0-sprycik",
+            "https://www.coolmathgames.com/0-glitch-game",
+            "https://www.coolmathgames.com/0-100-doors-challenge",
+            "https://www.coolmathgames.com/0-by-the-boxes",
+            "https://www.coolmathgames.com/0-the-white-room-5",
+            "https://www.coolmathgames.com/0-word-swipe",
+            "https://www.coolmathgames.com/find-it",
+            "https://www.coolmathgames.com/blog/how-to-play-word-swipe"
         ]
     }
 }
