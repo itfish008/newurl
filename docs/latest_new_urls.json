@@ -1,10 +1,10 @@
 {
-    "timestamp": "2025-03-27_06-21-39",
-    "crawl_time": "2025-03-27 06:21:39",
+    "timestamp": "2025-03-29_05-14-08",
+    "crawl_time": "2025-03-29 05:14:08",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-flipfox",
-            "https://www.coolmathgames.com/0-leo-zara"
+            "https://www.coolmathgames.com/0-logic-bend",
+            "https://www.coolmathgames.com/c/coding-games"
         ]
     }
 }
