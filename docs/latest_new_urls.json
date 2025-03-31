@@ -1,12 +1,9 @@
 {
-    "timestamp": "2025-03-31_09-17-42",
-    "crawl_time": "2025-03-31 09:17:42",
+    "timestamp": "2025-03-31_16-19-51",
+    "crawl_time": "2025-03-31 16:19:51",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/cow-castle",
-            "https://poki.com/en/g/outdoor-cleanup",
-            "https://poki.com/en/g/jelly-merge-party",
-            "https://poki.com/en/g/snake-shooter"
+            "https://poki.com/en/g/eyes-drop"
         ]
     }
 }
