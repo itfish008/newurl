@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-04-02_11-13-20",
-    "crawl_time": "2025-04-02 11:13:20",
+    "timestamp": "2025-04-02_12-31-32",
+    "crawl_time": "2025-04-02 12:31:32",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-say-cheese",
-            "https://www.coolmathgames.com/taxonomy/term/1227"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/indoor-soccer"
         ]
     }
 }
