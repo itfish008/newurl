@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-04-04_15-16-25",
-    "crawl_time": "2025-04-04 15:16:25",
+    "timestamp": "2025-04-04_19-13-41",
+    "crawl_time": "2025-04-04 19:13:41",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/dont-touch-the-spikes"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-16-beads"
         ]
     }
 }
