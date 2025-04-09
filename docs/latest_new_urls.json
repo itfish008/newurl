@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-04-08_07-15-50",
-    "crawl_time": "2025-04-08 07:15:50",
+    "timestamp": "2025-04-09_08-22-21",
+    "crawl_time": "2025-04-09 08:22:21",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-metro-escape"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/save-the-mermaid"
         ]
     }
 }
