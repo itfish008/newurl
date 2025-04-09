@@ -1,9 +1,11 @@
 {
-    "timestamp": "2025-04-09_08-22-21",
-    "crawl_time": "2025-04-09 08:22:21",
+    "timestamp": "2025-04-09_09-17-39",
+    "crawl_time": "2025-04-09 09:17:39",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/save-the-mermaid"
+            "https://poki.com/en/g/sweet-slime",
+            "https://poki.com/en/g/elemental-master",
+            "https://poki.com/en/g/duel-of-chance"
         ]
     }
 }
