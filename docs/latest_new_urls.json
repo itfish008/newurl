@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-04-09_10-19-10",
-    "crawl_time": "2025-04-09 10:19:10",
+    "timestamp": "2025-04-10_07-16-02",
+    "crawl_time": "2025-04-10 07:16:02",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/dummies-fight"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-auto-ninja"
         ]
     }
 }
