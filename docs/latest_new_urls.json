@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-04-11_16-20-04",
-    "crawl_time": "2025-04-11 16:20:04",
+    "timestamp": "2025-04-12_06-20-03",
+    "crawl_time": "2025-04-12 06:20:03",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/fall-balls-draw"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-jelly-matches",
+            "https://www.coolmathgames.com/0-dip-n-dice"
         ]
     }
 }
