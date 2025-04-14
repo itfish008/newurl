@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-04-12_06-20-03",
-    "crawl_time": "2025-04-12 06:20:03",
+    "timestamp": "2025-04-14_09-18-12",
+    "crawl_time": "2025-04-14 09:18:12",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-jelly-matches",
-            "https://www.coolmathgames.com/0-dip-n-dice"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/blobby-slime-quest"
         ]
     }
 }
