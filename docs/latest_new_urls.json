@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-04-17_10-17-19",
-    "crawl_time": "2025-04-17 10:17:19",
+    "timestamp": "2025-04-18_08-20-18",
+    "crawl_time": "2025-04-18 08:20:18",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/ball-guys"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-chain-color-sort",
+            "https://www.coolmathgames.com/blog/how-to-play-metro-escape"
         ]
     }
 }
