@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-04-22_09-17-18",
-    "crawl_time": "2025-04-22 09:17:18",
+    "timestamp": "2025-04-22_10-16-57",
+    "crawl_time": "2025-04-22 10:16:57",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/chest-warriors"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-braininess-2"
         ]
     }
 }
