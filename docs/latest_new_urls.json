@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-04-23_12-31-37",
-    "crawl_time": "2025-04-23 12:31:37",
+    "timestamp": "2025-04-23_13-26-39",
+    "crawl_time": "2025-04-23 13:26:39",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/flipside"
+            "https://poki.com/en/g/powerup",
+            "https://poki.com/en/g/rainbogeddon"
         ]
     }
 }
