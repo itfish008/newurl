@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-04-23_13-26-39",
-    "crawl_time": "2025-04-23 13:26:39",
+    "timestamp": "2025-04-23_15-17-25",
+    "crawl_time": "2025-04-23 15:17:25",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/powerup",
-            "https://poki.com/en/g/rainbogeddon"
+            "https://poki.com/en/g/master-assassin"
         ]
     }
 }
