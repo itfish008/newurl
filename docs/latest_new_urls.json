@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-04-23_15-17-25",
-    "crawl_time": "2025-04-23 15:17:25",
+    "timestamp": "2025-04-24_08-21-13",
+    "crawl_time": "2025-04-24 08:21:13",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/master-assassin"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-scrap-boy"
         ]
     }
 }
