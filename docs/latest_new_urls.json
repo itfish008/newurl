@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-04-24_08-21-13",
-    "crawl_time": "2025-04-24 08:21:13",
+    "timestamp": "2025-04-25_11-13-34",
+    "crawl_time": "2025-04-25 11:13:34",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-scrap-boy"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/merge-zoo",
+            "https://poki.com/en/g/sticker-book-puzzle"
         ]
     }
 }
