@@ -1,9 +1,13 @@
 {
-    "timestamp": "2025-04-25_15-16-30",
-    "crawl_time": "2025-04-25 15:16:30",
+    "timestamp": "2025-04-26_08-18-31",
+    "crawl_time": "2025-04-26 08:18:31",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/step-and-slash"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-word-sort-puzzle",
+            "https://www.coolmathgames.com/0-magnetic-pull",
+            "https://www.coolmathgames.com/1-match-3-games-app",
+            "https://www.coolmathgames.com/1-animal-games",
+            "https://www.coolmathgames.com/1-drawing-games-app"
         ]
     }
 }
