@@ -1,13 +1,9 @@
 {
-    "timestamp": "2025-04-26_08-18-31",
-    "crawl_time": "2025-04-26 08:18:31",
+    "timestamp": "2025-04-28_11-34-14",
+    "crawl_time": "2025-04-28 11:34:14",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-word-sort-puzzle",
-            "https://www.coolmathgames.com/0-magnetic-pull",
-            "https://www.coolmathgames.com/1-match-3-games-app",
-            "https://www.coolmathgames.com/1-animal-games",
-            "https://www.coolmathgames.com/1-drawing-games-app"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/car-stunts-adventure"
         ]
     }
 }
