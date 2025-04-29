@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-04-29_10-18-22",
-    "crawl_time": "2025-04-29 10:18:22",
+    "timestamp": "2025-04-29_16-19-41",
+    "crawl_time": "2025-04-29 16:19:41",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/need-for-madness"
+            "https://poki.com/en/g/zombie-match",
+            "https://poki.com/en/g/cougar-simulator-big-cats"
         ]
     }
 }
