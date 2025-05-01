@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-04-30_09-17-13",
-    "crawl_time": "2025-04-30 09:17:13",
+    "timestamp": "2025-05-01_12-30-45",
+    "crawl_time": "2025-05-01 12:30:45",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-apollo"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/money-machine"
         ]
     }
 }
