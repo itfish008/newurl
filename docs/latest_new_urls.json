@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-05-02_09-16-57",
-    "crawl_time": "2025-05-02 09:16:57",
+    "timestamp": "2025-05-04_10-15-36",
+    "crawl_time": "2025-05-04 10:15:36",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-enable"
+            "https://www.coolmathgames.com/0-code-maze",
+            "https://www.coolmathgames.com/0-duck-duck-clicker-3d"
         ]
     }
 }
