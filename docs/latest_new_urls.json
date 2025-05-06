@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-05-06_12-34-13",
-    "crawl_time": "2025-05-06 12:34:13",
+    "timestamp": "2025-05-06_13-29-00",
+    "crawl_time": "2025-05-06 13:29:00",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/samurai-punch",
-            "https://poki.com/en/g/cozy-garden-design"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-ball-sort-bicolor"
         ]
     }
 }
