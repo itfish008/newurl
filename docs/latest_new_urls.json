@@ -1,10 +1,10 @@
 {
-    "timestamp": "2025-05-04_10-15-36",
-    "crawl_time": "2025-05-04 10:15:36",
+    "timestamp": "2025-05-06_12-34-13",
+    "crawl_time": "2025-05-06 12:34:13",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-code-maze",
-            "https://www.coolmathgames.com/0-duck-duck-clicker-3d"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/samurai-punch",
+            "https://poki.com/en/g/cozy-garden-design"
         ]
     }
 }
