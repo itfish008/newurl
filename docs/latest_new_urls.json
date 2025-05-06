@@ -1,9 +1,13 @@
 {
-    "timestamp": "2025-05-06_13-29-00",
-    "crawl_time": "2025-05-06 13:29:00",
+    "timestamp": "2025-05-06_15-21-05",
+    "crawl_time": "2025-05-06 15:21:05",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-ball-sort-bicolor"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/flying-wheels-evolution",
+            "https://poki.com/en/g/bufo-merge",
+            "https://poki.com/en/g/plonky",
+            "https://poki.com/en/g/stickman-maze-run",
+            "https://poki.com/en/g/pool-merge-mania"
         ]
     }
 }
