@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-05-08_10-18-07",
-    "crawl_time": "2025-05-08 10:18:07",
+    "timestamp": "2025-05-08_12-32-24",
+    "crawl_time": "2025-05-08 12:32:24",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-vex-x3m-2"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/digger-escape"
         ]
     }
 }
