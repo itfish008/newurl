@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-05-09_14-15-52",
-    "crawl_time": "2025-05-09 14:15:52",
+    "timestamp": "2025-05-10_14-13-48",
+    "crawl_time": "2025-05-10 14:13:48",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/noob-miner-escape-from-prison"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-cars-merge",
+            "https://www.coolmathgames.com/0-binary-boy"
         ]
     }
 }
