@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-05-10_14-13-48",
-    "crawl_time": "2025-05-10 14:13:48",
+    "timestamp": "2025-05-12_09-18-39",
+    "crawl_time": "2025-05-12 09:18:39",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-cars-merge",
-            "https://www.coolmathgames.com/0-binary-boy"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/carrom-stars"
         ]
     }
 }
