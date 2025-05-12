@@ -1,9 +1,11 @@
 {
-    "timestamp": "2025-05-12_09-18-39",
-    "crawl_time": "2025-05-12 09:18:39",
+    "timestamp": "2025-05-12_13-29-22",
+    "crawl_time": "2025-05-12 13:29:22",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/carrom-stars"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/wallace",
+            "https://www.coolmathgames.com/wreath",
+            "https://www.coolmathgames.com/marq"
         ]
     }
 }
