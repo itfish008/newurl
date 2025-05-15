@@ -1,12 +1,9 @@
 {
-    "timestamp": "2025-05-14_15-17-30",
-    "crawl_time": "2025-05-14 15:17:30",
+    "timestamp": "2025-05-15_09-17-43",
+    "crawl_time": "2025-05-15 09:17:43",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/mafia-merge",
-            "https://poki.com/en/g/noob-vs-1000-zombies",
-            "https://poki.com/en/g/italian-brainrot-merge-game",
-            "https://poki.com/en/g/noob-builder"
+            "https://poki.com/en/g/dinominer"
         ]
     }
 }
