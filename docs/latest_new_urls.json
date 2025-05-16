@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-05-16_10-17-37",
-    "crawl_time": "2025-05-16 10:17:37",
+    "timestamp": "2025-05-16_12-32-47",
+    "crawl_time": "2025-05-16 12:32:47",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/robots-market"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-comball"
         ]
     }
 }
