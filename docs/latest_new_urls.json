@@ -1,9 +1,11 @@
 {
-    "timestamp": "2025-05-20_16-20-26",
-    "crawl_time": "2025-05-20 16:20:26",
+    "timestamp": "2025-05-22_12-33-51",
+    "crawl_time": "2025-05-22 12:33:51",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-tango-by-linkedin"
+            "https://www.coolmathgames.com/0-viscous-ventures",
+            "https://www.coolmathgames.com/blog/how-to-play-duck-duck-clicker-3d",
+            "https://www.coolmathgames.com/c/cars-planes-trains-games"
         ]
     }
 }
