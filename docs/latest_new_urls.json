@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-05-22_12-33-51",
-    "crawl_time": "2025-05-22 12:33:51",
+    "timestamp": "2025-05-22_16-20-38",
+    "crawl_time": "2025-05-22 16:20:38",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-viscous-ventures",
-            "https://www.coolmathgames.com/blog/how-to-play-duck-duck-clicker-3d",
-            "https://www.coolmathgames.com/c/cars-planes-trains-games"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/flick-goal"
         ]
     }
 }
