@@ -1,13 +1,9 @@
 {
-    "timestamp": "2025-06-01_01-39-20",
-    "crawl_time": "2025-06-01 01:39:20",
+    "timestamp": "2025-06-01_16-18-42",
+    "crawl_time": "2025-06-01 16:18:42",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-maze-game",
-            "https://www.coolmathgames.com/0-2-player-dino-run",
-            "https://www.coolmathgames.com/0-mini-bugs",
-            "https://www.coolmathgames.com/c/new-games",
-            "https://www.coolmathgames.com/c/popular-games"
+            "https://www.coolmathgames.com/0-le-chat-fonce-the-clock-tower"
         ]
     }
 }
