@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-06-01_16-18-42",
-    "crawl_time": "2025-06-01 16:18:42",
+    "timestamp": "2025-06-02_09-18-52",
+    "crawl_time": "2025-06-02 09:18:52",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-le-chat-fonce-the-clock-tower"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/pets-park",
+            "https://poki.com/en/g/brainrot-ice-cream"
         ]
     }
 }
