@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-06-03_19-13-18",
-    "crawl_time": "2025-06-03 19:13:18",
+    "timestamp": "2025-06-06_11-14-28",
+    "crawl_time": "2025-06-06 11:14:28",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-drop-numbers"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/correct-lie",
+            "https://poki.com/en/g/bee-sort-by-sam"
         ]
     }
 }
