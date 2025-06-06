@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-06-06_11-14-28",
-    "crawl_time": "2025-06-06 11:14:28",
+    "timestamp": "2025-06-06_14-16-28",
+    "crawl_time": "2025-06-06 14:16:28",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/correct-lie",
-            "https://poki.com/en/g/bee-sort-by-sam"
+            "https://poki.com/en/g/golden-hit"
         ]
     }
 }
