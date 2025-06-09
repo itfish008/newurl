@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-06-07_19-12-29",
-    "crawl_time": "2025-06-07 19:12:29",
+    "timestamp": "2025-06-09_21-15-25",
+    "crawl_time": "2025-06-09 21:15:25",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-paused",
-            "https://www.coolmathgames.com/0-papa-cherry-saga"
+            "https://www.coolmathgames.com/0-house-painter"
         ]
     }
 }
