@@ -1,10 +1,11 @@
 {
-    "timestamp": "2025-06-19_20-19-16",
-    "crawl_time": "2025-06-19 20:19:16",
+    "timestamp": "2025-06-23_09-20-20",
+    "crawl_time": "2025-06-23 09:20:20",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-my-flock-friends",
-            "https://www.coolmathgames.com/0-card-match-10"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/doodle-race",
+            "https://poki.com/en/g/blockyout",
+            "https://poki.com/en/g/grow-my-farm"
         ]
     }
 }
