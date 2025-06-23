@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-06-23_09-20-20",
-    "crawl_time": "2025-06-23 09:20:20",
+    "timestamp": "2025-06-23_22-16-34",
+    "crawl_time": "2025-06-23 22:16:34",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/doodle-race",
-            "https://poki.com/en/g/blockyout",
-            "https://poki.com/en/g/grow-my-farm"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-tiptap"
         ]
     }
 }
