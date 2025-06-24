@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-06-24_10-18-33",
-    "crawl_time": "2025-06-24 10:18:33",
+    "timestamp": "2025-06-24_16-21-12",
+    "crawl_time": "2025-06-24 16:21:12",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/crazy-balls",
-            "https://poki.com/en/g/merge-quest",
-            "https://poki.com/en/g/bacon-survivor"
+            "https://poki.com/en/g/paintball-shooting"
         ]
     }
 }
