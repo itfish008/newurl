@@ -1,9 +1,11 @@
 {
-    "timestamp": "2025-06-23_22-16-34",
-    "crawl_time": "2025-06-23 22:16:34",
+    "timestamp": "2025-06-24_10-18-33",
+    "crawl_time": "2025-06-24 10:18:33",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-tiptap"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/crazy-balls",
+            "https://poki.com/en/g/merge-quest",
+            "https://poki.com/en/g/bacon-survivor"
         ]
     }
 }
