@@ -1,10 +1,12 @@
 {
-    "timestamp": "2025-06-27_09-18-05",
-    "crawl_time": "2025-06-27 09:18:05",
+    "timestamp": "2025-06-27_10-18-45",
+    "crawl_time": "2025-06-27 10:18:45",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/blocky-out",
-            "https://poki.com/en/g/dino-miner"
+            "https://poki.com/en/g/cleanscape",
+            "https://poki.com/en/g/golf-maze",
+            "https://poki.com/en/g/build-my-brainrot",
+            "https://poki.com/en/g/diva-hair-salon"
         ]
     }
 }
