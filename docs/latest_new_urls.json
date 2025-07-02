@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-07-01_21-15-45",
-    "crawl_time": "2025-07-01 21:15:45",
+    "timestamp": "2025-07-02_10-18-39",
+    "crawl_time": "2025-07-02 10:18:39",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-cat-bandit"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/beach-boxing-simulator"
         ]
     }
 }
