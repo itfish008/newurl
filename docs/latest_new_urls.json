@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-07-04_16-20-03",
-    "crawl_time": "2025-07-04 16:20:03",
+    "timestamp": "2025-07-05_20-17-00",
+    "crawl_time": "2025-07-05 20:17:00",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/superweird"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-find-the-differences-spot-em-all"
         ]
     }
 }
