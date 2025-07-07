@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-07-05_20-17-00",
-    "crawl_time": "2025-07-05 20:17:00",
+    "timestamp": "2025-07-07_16-21-45",
+    "crawl_time": "2025-07-07 16:21:45",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-find-the-differences-spot-em-all"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/the-third-piglets-tower",
+            "https://poki.com/en/g/find-the-nibbys"
         ]
     }
 }
