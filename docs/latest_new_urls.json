@@ -1,10 +1,10 @@
 {
-    "timestamp": "2025-07-07_16-21-45",
-    "crawl_time": "2025-07-07 16:21:45",
+    "timestamp": "2025-07-08_14-16-11",
+    "crawl_time": "2025-07-08 14:16:11",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/the-third-piglets-tower",
-            "https://poki.com/en/g/find-the-nibbys"
+            "https://poki.com/en/g/squid-dash",
+            "https://poki.com/en/g/strike-force-zombie-invasion"
         ]
     }
 }
