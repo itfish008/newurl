@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-07-09_13-31-26",
-    "crawl_time": "2025-07-09 13:31:26",
+    "timestamp": "2025-07-09_21-16-04",
+    "crawl_time": "2025-07-09 21:16:04",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/worms-stretch",
-            "https://poki.com/en/g/cute-monsters-dress-up"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-twisted-blocks"
         ]
     }
 }
