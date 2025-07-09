@@ -1,10 +1,10 @@
 {
-    "timestamp": "2025-07-08_14-16-11",
-    "crawl_time": "2025-07-08 14:16:11",
+    "timestamp": "2025-07-09_13-31-26",
+    "crawl_time": "2025-07-09 13:31:26",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/squid-dash",
-            "https://poki.com/en/g/strike-force-zombie-invasion"
+            "https://poki.com/en/g/worms-stretch",
+            "https://poki.com/en/g/cute-monsters-dress-up"
         ]
     }
 }
