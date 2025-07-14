@@ -1,10 +1,10 @@
 {
-    "timestamp": "2025-07-13_22-15-47",
-    "crawl_time": "2025-07-13 22:15:47",
+    "timestamp": "2025-07-14_10-19-22",
+    "crawl_time": "2025-07-14 10:19:22",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-dunk-frenzy",
-            "https://www.coolmathgames.com/0-bubble-letters"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/mine-and-dig",
+            "https://poki.com/en/g/tilit-puzzle"
         ]
     }
 }
