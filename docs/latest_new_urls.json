@@ -1,10 +1,10 @@
 {
-    "timestamp": "2025-07-14_10-19-22",
-    "crawl_time": "2025-07-14 10:19:22",
+    "timestamp": "2025-07-14_12-36-14",
+    "crawl_time": "2025-07-14 12:36:14",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/mine-and-dig",
-            "https://poki.com/en/g/tilit-puzzle"
+            "https://poki.com/en/g/meow-meow-life",
+            "https://poki.com/en/g/capyloop-ricochet"
         ]
     }
 }
