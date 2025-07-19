@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-07-18_08-23-30",
-    "crawl_time": "2025-07-18 08:23:30",
+    "timestamp": "2025-07-19_12-32-34",
+    "crawl_time": "2025-07-19 12:32:34",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/kigurumi-dress-up"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-sheep-vs-wolf"
         ]
     }
 }
