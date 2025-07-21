@@ -1,9 +1,11 @@
 {
-    "timestamp": "2025-07-19_12-32-34",
-    "crawl_time": "2025-07-19 12:32:34",
+    "timestamp": "2025-07-21_14-19-23",
+    "crawl_time": "2025-07-21 14:19:23",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-sheep-vs-wolf"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/i-am-hall-security",
+            "https://poki.com/en/g/car-wash-simulator",
+            "https://poki.com/en/g/funny-zoo-emergency"
         ]
     }
 }
