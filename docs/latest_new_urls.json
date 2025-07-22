@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-07-22_14-19-00",
-    "crawl_time": "2025-07-22 14:19:00",
+    "timestamp": "2025-07-22_16-21-49",
+    "crawl_time": "2025-07-22 16:21:49",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/carnado-stunt-car",
-            "https://poki.com/en/g/cube-builder",
-            "https://poki.com/en/g/cube-miner-escape-from-prison"
+            "https://poki.com/en/g/my-city-star-stable"
         ]
     }
 }
