@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-07-23_10-19-15",
-    "crawl_time": "2025-07-23 10:19:15",
+    "timestamp": "2025-07-23_14-19-22",
+    "crawl_time": "2025-07-23 14:19:22",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/cafe-bara",
-            "https://poki.com/en/g/snow-plow"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-flight-cosa"
         ]
     }
 }
