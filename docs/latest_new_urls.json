@@ -1,9 +1,12 @@
 {
-    "timestamp": "2025-07-23_14-19-22",
-    "crawl_time": "2025-07-23 14:19:22",
+    "timestamp": "2025-07-25_11-15-40",
+    "crawl_time": "2025-07-25 11:15:40",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-flight-cosa"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/drills-merge-master",
+            "https://poki.com/en/g/guess-the-brainrot",
+            "https://poki.com/en/g/grass-cutter",
+            "https://poki.com/en/g/watermelon-slide"
         ]
     }
 }
