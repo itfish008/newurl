@@ -1,12 +1,10 @@
 {
-    "timestamp": "2025-07-25_11-15-40",
-    "crawl_time": "2025-07-25 11:15:40",
+    "timestamp": "2025-07-27_13-28-32",
+    "crawl_time": "2025-07-27 13:28:32",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/drills-merge-master",
-            "https://poki.com/en/g/guess-the-brainrot",
-            "https://poki.com/en/g/grass-cutter",
-            "https://poki.com/en/g/watermelon-slide"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-super-stun-gun-man",
+            "https://www.coolmathgames.com/0-jigsort-puzzles"
         ]
     }
 }
