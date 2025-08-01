@@ -1,9 +1,17 @@
 {
-    "timestamp": "2025-07-29_15-20-42",
-    "crawl_time": "2025-07-29 15:20:42",
+    "timestamp": "2025-08-01_01-43-45",
+    "crawl_time": "2025-08-01 01:43:45",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/steal-and-run"
+            "https://poki.com/en/g/agent-hunt-pro-shooter",
+            "https://poki.com/en/g/office-boss-simulator",
+            "https://poki.com/en/g/woodoku-block-puzzle",
+            "https://poki.com/en/g/sushi-situation",
+            "https://poki.com/en/g/botanica"
+        ],
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-pinball-pro",
+            "https://www.coolmathgames.com/0-mysa"
         ]
     }
 }
