@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-08-02_15-16-55",
-    "crawl_time": "2025-08-02 15:16:55",
+    "timestamp": "2025-08-04_12-38-46",
+    "crawl_time": "2025-08-04 12:38:46",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-jewel-jet"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/brainrot-merge"
         ]
     }
 }
