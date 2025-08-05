@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-08-05_13-39-24",
-    "crawl_time": "2025-08-05 13:39:24",
+    "timestamp": "2025-08-05_16-19-19",
+    "crawl_time": "2025-08-05 16:19:19",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/dwerg"
+            "https://poki.com/en/g/beauty-salon-3d"
         ]
     }
 }
