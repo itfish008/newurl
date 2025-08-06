@@ -1,12 +1,9 @@
 {
-    "timestamp": "2025-08-06_15-20-23",
-    "crawl_time": "2025-08-06 15:20:23",
+    "timestamp": "2025-08-06_17-20-13",
+    "crawl_time": "2025-08-06 17:20:13",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-find-the-difference",
-            "https://www.coolmathgames.com/0-sheldon",
-            "https://www.coolmathgames.com/blog/best-games-for-chromebook",
-            "https://www.coolmathgames.com/0-merge-combo"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/kick-it"
         ]
     }
 }
