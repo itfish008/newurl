@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-08-06_17-20-13",
-    "crawl_time": "2025-08-06 17:20:13",
+    "timestamp": "2025-08-07_12-38-05",
+    "crawl_time": "2025-08-07 12:38:05",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/kick-it"
+            "https://poki.com/en/g/capitalist-bus-driver"
         ]
     }
 }
