@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-08-08_16-20-14",
-    "crawl_time": "2025-08-08 16:20:14",
+    "timestamp": "2025-08-10_20-18-24",
+    "crawl_time": "2025-08-10 20:18:24",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/roller"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-tobinin",
+            "https://www.coolmathgames.com/0-unbrakable"
         ]
     }
 }
