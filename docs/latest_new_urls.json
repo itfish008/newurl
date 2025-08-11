@@ -1,10 +1,12 @@
 {
-    "timestamp": "2025-08-10_20-18-24",
-    "crawl_time": "2025-08-10 20:18:24",
+    "timestamp": "2025-08-11_15-19-09",
+    "crawl_time": "2025-08-11 15:19:09",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-tobinin",
-            "https://www.coolmathgames.com/0-unbrakable"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/pocket-car-city",
+            "https://poki.com/en/g/cube-archer-vs-1000-zobies",
+            "https://poki.com/en/g/dragon-merge",
+            "https://poki.com/en/g/vampire-survivors-classic"
         ]
     }
 }
