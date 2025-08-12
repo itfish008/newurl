@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-08-12_15-18-37",
-    "crawl_time": "2025-08-12 15:18:37",
+    "timestamp": "2025-08-12_16-21-26",
+    "crawl_time": "2025-08-12 16:21:26",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/snack-push",
-            "https://poki.com/en/g/scary-teacher-playtime-adventure"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-tic-tac-tumble"
         ]
     }
 }
