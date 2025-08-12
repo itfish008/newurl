@@ -1,12 +1,10 @@
 {
-    "timestamp": "2025-08-11_15-19-09",
-    "crawl_time": "2025-08-11 15:19:09",
+    "timestamp": "2025-08-12_15-18-37",
+    "crawl_time": "2025-08-12 15:18:37",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/pocket-car-city",
-            "https://poki.com/en/g/cube-archer-vs-1000-zobies",
-            "https://poki.com/en/g/dragon-merge",
-            "https://poki.com/en/g/vampire-survivors-classic"
+            "https://poki.com/en/g/snack-push",
+            "https://poki.com/en/g/scary-teacher-playtime-adventure"
         ]
     }
 }
