@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-08-14_14-17-08",
-    "crawl_time": "2025-08-14 14:17:08",
+    "timestamp": "2025-08-14_18-24-47",
+    "crawl_time": "2025-08-14 18:24:47",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/merge-monster-battles"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-tap-tap-race",
+            "https://www.coolmathgames.com/blog/how-to-play-find-the-difference"
         ]
     }
 }
