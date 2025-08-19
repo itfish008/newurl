@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-08-18_19-14-46",
-    "crawl_time": "2025-08-18 19:14:46",
+    "timestamp": "2025-08-19_16-20-48",
+    "crawl_time": "2025-08-19 16:20:48",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-origin",
-            "https://www.coolmathgames.com/0-sum-master",
-            "https://www.coolmathgames.com/0-floor-is-lava"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/blademan"
         ]
     }
 }
