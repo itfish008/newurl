@@ -1,10 +1,19 @@
 {
-    "timestamp": "2025-08-24_18-20-56",
-    "crawl_time": "2025-08-24 18:20:56",
+    "timestamp": "2025-08-25_12-34-01",
+    "crawl_time": "2025-08-25 12:34:01",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-soccer-blast",
-            "https://www.coolmathgames.com/0-lines"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/woodoku-block-puzzle-fac281a4",
+            "https://poki.com/en/g/hexa-war-idle-battle-1ed10730",
+            "https://poki.com/en/g/pro-shooter-3b7eb84e",
+            "https://poki.com/en/g/make-a-squad-8d0cfccd",
+            "https://poki.com/en/g/ghost-shooter-io-e02000a6",
+            "https://poki.com/en/g/meme-madness-43989af1",
+            "https://poki.com/en/g/cleanscape-masters-b0882b41",
+            "https://poki.com/en/g/crazy-excuse-17096fa1",
+            "https://poki.com/en/g/speed-dash-c323c7f4",
+            "https://poki.com/en/g/tricky-arrow-2",
+            "https://poki.com/en/g/bubble-originals"
         ]
     }
 }
