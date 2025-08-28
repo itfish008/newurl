@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-08-27_07-15-39",
-    "crawl_time": "2025-08-27 07:15:39",
+    "timestamp": "2025-08-28_08-21-13",
+    "crawl_time": "2025-08-28 08:21:13",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/doc-honeyberry-kitty-surgery"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-mini-car-ball",
+            "https://www.coolmathgames.com/0-iliagc"
         ]
     }
 }
