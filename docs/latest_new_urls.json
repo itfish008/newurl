@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-09-06_12-27-47",
-    "crawl_time": "2025-09-06 12:27:47",
+    "timestamp": "2025-09-08_18-23-05",
+    "crawl_time": "2025-09-08 18:23:05",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-dress-up-styling-challenge",
-            "https://www.coolmathgames.com/0-chonky-chirpers",
-            "https://www.coolmathgames.com/0-3d-cannon-ball"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/build-league"
         ]
     }
 }
