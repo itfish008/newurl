@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-09-09_13-28-28",
-    "crawl_time": "2025-09-09 13:28:28",
+    "timestamp": "2025-09-10_16-19-40",
+    "crawl_time": "2025-09-10 16:19:40",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/my-city-horse-stable"
+            "https://poki.com/en/g/fishermans-diary"
         ]
     }
 }
