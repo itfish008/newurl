@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-09-10_16-19-40",
-    "crawl_time": "2025-09-10 16:19:40",
+    "timestamp": "2025-09-12_13-23-06",
+    "crawl_time": "2025-09-12 13:23:06",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/fishermans-diary"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-lines-game",
+            "https://www.coolmathgames.com/0-solar-complex"
         ]
     }
 }
