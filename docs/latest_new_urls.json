@@ -1,10 +1,11 @@
 {
-    "timestamp": "2025-09-12_13-23-06",
-    "crawl_time": "2025-09-12 13:23:06",
+    "timestamp": "2025-09-14_14-12-36",
+    "crawl_time": "2025-09-14 14:12:36",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-lines-game",
-            "https://www.coolmathgames.com/0-solar-complex"
+            "https://www.coolmathgames.com/0-word-salad",
+            "https://www.coolmathgames.com/0-detective-logic-puzzle",
+            "https://www.coolmathgames.com/blog/how-to-play-mini-car-ball"
         ]
     }
 }
