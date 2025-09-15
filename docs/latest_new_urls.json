@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-09-14_14-12-36",
-    "crawl_time": "2025-09-14 14:12:36",
+    "timestamp": "2025-09-15_16-19-51",
+    "crawl_time": "2025-09-15 16:19:51",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-word-salad",
-            "https://www.coolmathgames.com/0-detective-logic-puzzle",
-            "https://www.coolmathgames.com/blog/how-to-play-mini-car-ball"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/penguin-beach-club"
         ]
     }
 }
