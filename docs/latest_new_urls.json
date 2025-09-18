@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-09-16_12-32-49",
-    "crawl_time": "2025-09-16 12:32:49",
+    "timestamp": "2025-09-18_08-20-45",
+    "crawl_time": "2025-09-18 08:20:45",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/beardie-craft-survival",
-            "https://poki.com/en/g/world-of-screw"
+            "https://poki.com/en/g/no-pain-no-gain"
         ]
     }
 }
