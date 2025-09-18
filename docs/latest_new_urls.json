@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-09-18_14-16-17",
-    "crawl_time": "2025-09-18 14:16:17",
+    "timestamp": "2025-09-18_16-19-50",
+    "crawl_time": "2025-09-18 16:19:50",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/monster-max-e62bbcd6",
-            "https://poki.com/en/g/mechangelion-robot-fighting"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-100-doors-puzzle-box"
         ]
     }
 }
