@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-09-18_16-19-50",
-    "crawl_time": "2025-09-18 16:19:50",
+    "timestamp": "2025-09-19_08-20-57",
+    "crawl_time": "2025-09-19 08:20:57",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-100-doors-puzzle-box"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/ragdoll-drop"
         ]
     }
 }
