@@ -1,10 +1,10 @@
 {
-    "timestamp": "2025-09-19_13-24-39",
-    "crawl_time": "2025-09-19 13:24:39",
+    "timestamp": "2025-09-22_18-22-06",
+    "crawl_time": "2025-09-22 18:22:06",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/royal-flush-merge",
-            "https://poki.com/en/g/crowd-survivor"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-worlds-hardest-game-4",
+            "https://www.coolmathgames.com/0-trivia-online"
         ]
     }
 }
