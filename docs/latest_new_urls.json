@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-09-24_16-20-34",
-    "crawl_time": "2025-09-24 16:20:34",
+    "timestamp": "2025-09-25_02-59-03",
+    "crawl_time": "2025-09-25 02:59:03",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/hexa-war-idle-battle"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-parking-plot",
+            "https://www.coolmathgames.com/0-fabled-conquerors-2-the-winds-of-magic"
         ]
     }
 }
