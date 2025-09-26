@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-09-25_11-14-12",
-    "crawl_time": "2025-09-25 11:14:12",
+    "timestamp": "2025-09-26_11-13-08",
+    "crawl_time": "2025-09-26 11:13:08",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/deadriseio-df912217"
+            "https://poki.com/en/g/sky-race",
+            "https://poki.com/en/g/monster-max"
         ]
     }
 }
