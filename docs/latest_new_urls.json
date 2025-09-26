@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-09-26_11-13-08",
-    "crawl_time": "2025-09-26 11:13:08",
+    "timestamp": "2025-09-26_13-24-47",
+    "crawl_time": "2025-09-26 13:24:47",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/sky-race",
-            "https://poki.com/en/g/monster-max"
+            "https://poki.com/en/g/bloxd-io"
         ]
     }
 }
