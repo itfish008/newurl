@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-09-26_16-19-42",
-    "crawl_time": "2025-09-26 16:19:42",
+    "timestamp": "2025-09-26_18-20-38",
+    "crawl_time": "2025-09-26 18:20:38",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/carnado-cyber-car",
-            "https://poki.com/en/g/eggsplosion"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-jelly-block-puzzle"
         ]
     }
 }
