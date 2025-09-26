@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-09-26_14-14-42",
-    "crawl_time": "2025-09-26 14:14:42",
+    "timestamp": "2025-09-26_16-19-42",
+    "crawl_time": "2025-09-26 16:19:42",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/eggsplosion-44174277"
+            "https://poki.com/en/g/carnado-cyber-car",
+            "https://poki.com/en/g/eggsplosion"
         ]
     }
 }
