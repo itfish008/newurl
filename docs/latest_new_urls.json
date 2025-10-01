@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-10-01_01-19-53",
-    "crawl_time": "2025-10-01 01:19:53",
+    "timestamp": "2025-10-01_04-18-42",
+    "crawl_time": "2025-10-01 04:18:42",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/blockzilla"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-sum-slider"
         ]
     }
 }
