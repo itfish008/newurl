@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-10-05_10-14-47",
-    "crawl_time": "2025-10-05 10:14:47",
+    "timestamp": "2025-10-06_13-26-37",
+    "crawl_time": "2025-10-06 13:26:37",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-pushori"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/little-tricky-prankster-71242de2",
+            "https://poki.com/en/g/smash-defense-0af067e3"
         ]
     }
 }
