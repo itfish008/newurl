@@ -1,10 +1,11 @@
 {
-    "timestamp": "2025-10-06_13-26-37",
-    "crawl_time": "2025-10-06 13:26:37",
+    "timestamp": "2025-10-06_14-16-19",
+    "crawl_time": "2025-10-06 14:16:19",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/little-tricky-prankster-71242de2",
-            "https://poki.com/en/g/smash-defense-0af067e3"
+            "https://poki.com/en/g/bubble-heroes",
+            "https://poki.com/en/g/yummy-ice-cream-factory-4cd7e7f1",
+            "https://poki.com/en/g/bff-art-class-78ef2575"
         ]
     }
 }
