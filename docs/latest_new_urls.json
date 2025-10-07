@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-10-06_14-16-19",
-    "crawl_time": "2025-10-06 14:16:19",
+    "timestamp": "2025-10-07_08-21-46",
+    "crawl_time": "2025-10-07 08:21:46",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/bubble-heroes",
-            "https://poki.com/en/g/yummy-ice-cream-factory-4cd7e7f1",
-            "https://poki.com/en/g/bff-art-class-78ef2575"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-cookie-clicker"
         ]
     }
 }
