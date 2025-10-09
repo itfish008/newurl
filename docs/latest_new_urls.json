@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-10-08_14-16-40",
-    "crawl_time": "2025-10-08 14:16:40",
+    "timestamp": "2025-10-09_07-15-43",
+    "crawl_time": "2025-10-09 07:15:43",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/bff-math-class"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-bridge",
+            "https://www.coolmathgames.com/0-trace-definitive-edition-demo"
         ]
     }
 }
