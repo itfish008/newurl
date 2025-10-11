@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-10-10_15-15-50",
-    "crawl_time": "2025-10-10 15:15:50",
+    "timestamp": "2025-10-11_10-14-39",
+    "crawl_time": "2025-10-11 10:14:39",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/stickman-battle-ecb23f7f"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-paper-ufo",
+            "https://www.coolmathgames.com/0-bygone-treasures-shop"
         ]
     }
 }
