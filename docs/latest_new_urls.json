@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-10-16_08-22-51",
-    "crawl_time": "2025-10-16 08:22:51",
+    "timestamp": "2025-10-16_09-18-14",
+    "crawl_time": "2025-10-16 09:18:14",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/zombie-merge",
-            "https://poki.com/en/g/adventure-jumper"
+            "https://poki.com/en/g/grandma-recipe-nigiri-sushi"
         ]
     }
 }
