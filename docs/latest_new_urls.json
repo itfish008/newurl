@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-10-19_09-14-41",
-    "crawl_time": "2025-10-19 09:14:41",
+    "timestamp": "2025-10-20_12-34-29",
+    "crawl_time": "2025-10-20 12:34:29",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-lextiles",
-            "https://www.coolmathgames.com/0-bouncy-woods",
-            "https://www.coolmathgames.com/blog/how-to-play-cookie-clicker"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/you-monster"
         ]
     }
 }
