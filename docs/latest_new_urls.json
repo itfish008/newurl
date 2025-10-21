@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-10-20_15-16-42",
-    "crawl_time": "2025-10-20 15:16:42",
+    "timestamp": "2025-10-21_15-17-25",
+    "crawl_time": "2025-10-21 15:17:25",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/tankcraft-2",
-            "https://poki.com/en/g/merge-tower-defence"
+            "https://poki.com/en/g/phone-case-diy"
         ]
     }
 }
