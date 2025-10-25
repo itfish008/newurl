@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-10-24_16-20-14",
-    "crawl_time": "2025-10-24 16:20:14",
+    "timestamp": "2025-10-25_21-13-43",
+    "crawl_time": "2025-10-25 21:13:43",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/nail-salon"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-close-tiles"
         ]
     }
 }
