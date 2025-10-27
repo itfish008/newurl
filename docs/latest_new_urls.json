@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-10-27_10-19-54",
-    "crawl_time": "2025-10-27 10:19:54",
+    "timestamp": "2025-10-27_23-14-27",
+    "crawl_time": "2025-10-27 23:14:27",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/human-bullet-gun-ea321286",
-            "https://poki.com/en/g/apocalypse-merge",
-            "https://poki.com/en/g/sticky-impossible"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-icy-purple-head-halloween"
         ]
     }
 }
