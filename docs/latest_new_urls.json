@@ -1,9 +1,11 @@
 {
-    "timestamp": "2025-10-25_21-13-43",
-    "crawl_time": "2025-10-25 21:13:43",
+    "timestamp": "2025-10-27_10-19-54",
+    "crawl_time": "2025-10-27 10:19:54",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-close-tiles"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/human-bullet-gun-ea321286",
+            "https://poki.com/en/g/apocalypse-merge",
+            "https://poki.com/en/g/sticky-impossible"
         ]
     }
 }
