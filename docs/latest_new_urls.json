@@ -1,9 +1,18 @@
 {
-    "timestamp": "2025-10-27_23-14-27",
-    "crawl_time": "2025-10-27 23:14:27",
+    "timestamp": "2025-11-01_01-19-29",
+    "crawl_time": "2025-11-01 01:19:29",
     "urls": {
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/zombie-outpost",
+            "https://poki.com/en/g/makeup-kit-beauty-salon",
+            "https://poki.com/en/g/count-control-legends",
+            "https://poki.com/en/g/chair-force-buzz",
+            "https://poki.com/en/g/blumgi-bounce",
+            "https://poki.com/en/g/beast-barber",
+            "https://poki.com/en/g/funny-angie-haircut-e379e78b"
+        ],
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-icy-purple-head-halloween"
+            "https://www.coolmathgames.com/0-nonogram-halloween"
         ]
     }
 }
