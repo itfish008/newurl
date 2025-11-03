@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-11-03_14-17-04",
-    "crawl_time": "2025-11-03 14:17:04",
+    "timestamp": "2025-11-03_15-17-56",
+    "crawl_time": "2025-11-03 15:17:56",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/merge-rise",
-            "https://poki.com/en/g/67-doi-doi"
+            "https://poki.com/en/g/link-game"
         ]
     }
 }
