@@ -1,10 +1,11 @@
 {
-    "timestamp": "2025-11-03_01-19-04",
-    "crawl_time": "2025-11-03 01:19:04",
+    "timestamp": "2025-11-03_11-14-30",
+    "crawl_time": "2025-11-03 11:14:30",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-ghost-watch",
-            "https://www.coolmathgames.com/0-click-and-merge"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/city-cab-rush",
+            "https://poki.com/en/g/spinshot-3d",
+            "https://poki.com/en/g/steampunk-idle-spinner"
         ]
     }
 }
