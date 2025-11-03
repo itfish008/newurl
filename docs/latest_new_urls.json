@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-11-03_11-14-30",
-    "crawl_time": "2025-11-03 11:14:30",
+    "timestamp": "2025-11-03_13-28-28",
+    "crawl_time": "2025-11-03 13:28:28",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/city-cab-rush",
-            "https://poki.com/en/g/spinshot-3d",
-            "https://poki.com/en/g/steampunk-idle-spinner"
+            "https://poki.com/en/g/hook-drive-45cd6072"
         ]
     }
 }
