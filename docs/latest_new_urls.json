@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-11-01_05-15-12",
-    "crawl_time": "2025-11-01 05:15:12",
+    "timestamp": "2025-11-03_01-19-04",
+    "crawl_time": "2025-11-03 01:19:04",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-the-mystery-mansion"
+            "https://www.coolmathgames.com/0-ghost-watch",
+            "https://www.coolmathgames.com/0-click-and-merge"
         ]
     }
 }
