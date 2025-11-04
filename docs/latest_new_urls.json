@@ -1,12 +1,10 @@
 {
-    "timestamp": "2025-11-04_10-19-59",
-    "crawl_time": "2025-11-04 10:19:59",
+    "timestamp": "2025-11-04_16-20-58",
+    "crawl_time": "2025-11-04 16:20:58",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/turbo-slime-clean-d32c36c4",
-            "https://poki.com/en/g/molly-miner-ed5af65a",
-            "https://poki.com/en/g/arrow-escape-4ea6e79b",
-            "https://poki.com/en/g/slime-dunk"
+            "https://poki.com/en/g/my-dog-me-vs-zombies-d5b6fead",
+            "https://poki.com/en/g/pro-shooter"
         ]
     }
 }
