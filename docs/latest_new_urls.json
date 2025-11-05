@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-11-04_16-20-58",
-    "crawl_time": "2025-11-04 16:20:58",
+    "timestamp": "2025-11-05_04-20-42",
+    "crawl_time": "2025-11-05 04:20:42",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/my-dog-me-vs-zombies-d5b6fead",
-            "https://poki.com/en/g/pro-shooter"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-day-one"
         ]
     }
 }
