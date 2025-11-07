@@ -1,9 +1,12 @@
 {
-    "timestamp": "2025-11-06_16-22-12",
-    "crawl_time": "2025-11-06 16:22:12",
+    "timestamp": "2025-11-07_01-16-28",
+    "crawl_time": "2025-11-07 01:16:28",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/collect-n-evolve-383e5ab4"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-golf-dash",
+            "https://www.coolmathgames.com/0-snooker",
+            "https://www.coolmathgames.com/0-day-two",
+            "https://www.coolmathgames.com/0-day-three"
         ]
     }
 }
