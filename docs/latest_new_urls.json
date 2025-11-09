@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-11-07_16-18-16",
-    "crawl_time": "2025-11-07 16:18:16",
+    "timestamp": "2025-11-09_04-18-55",
+    "crawl_time": "2025-11-09 04:18:55",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/stickman-battle"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-day-four"
         ]
     }
 }
