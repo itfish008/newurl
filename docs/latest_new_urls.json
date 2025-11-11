@@ -1,15 +1,10 @@
 {
-    "timestamp": "2025-11-10_12-35-18",
-    "crawl_time": "2025-11-10 12:35:18",
+    "timestamp": "2025-11-11_05-17-21",
+    "crawl_time": "2025-11-11 05:17:21",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/metamon-37505728",
-            "https://poki.com/en/g/sockscape-missing-mate-7f7bfa37",
-            "https://poki.com/en/g/munch-market-1c70a968",
-            "https://poki.com/en/g/survive-the-brainrot-ec9edb81",
-            "https://poki.com/en/g/clean-house-26ce2ce1",
-            "https://poki.com/en/g/300-heroes-25f668b4",
-            "https://poki.com/en/g/airplane-manager-b3d7f928"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-bubble-shooter-remastered",
+            "https://www.coolmathgames.com/blog/trace-walkthrough"
         ]
     }
 }
