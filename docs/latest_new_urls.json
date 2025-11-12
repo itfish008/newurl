@@ -1,10 +1,10 @@
 {
-    "timestamp": "2025-11-12_09-19-18",
-    "crawl_time": "2025-11-12 09:19:18",
+    "timestamp": "2025-11-12_10-19-00",
+    "crawl_time": "2025-11-12 10:19:00",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/subway-surfers-blast",
-            "https://poki.com/en/g/subway-surfers-match"
+            "https://poki.com/en/g/barber-shop-3734c4c6",
+            "https://poki.com/en/g/pizza-planet-9bb8eb94"
         ]
     }
 }
