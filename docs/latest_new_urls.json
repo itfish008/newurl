@@ -1,9 +1,10 @@
 {
-    "timestamp": "2025-11-13_16-21-01",
-    "crawl_time": "2025-11-13 16:21:01",
+    "timestamp": "2025-11-14_13-27-40",
+    "crawl_time": "2025-11-14 13:27:40",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/funny-angie-haircut"
+            "https://poki.com/en/g/alphabet-brainrot",
+            "https://poki.com/en/g/madness-car-destroy"
         ]
     }
 }
