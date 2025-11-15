@@ -1,9 +1,12 @@
 {
-    "timestamp": "2025-11-14_18-23-58",
-    "crawl_time": "2025-11-14 18:23:58",
+    "timestamp": "2025-11-15_16-17-53",
+    "crawl_time": "2025-11-15 16:17:53",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/swarmageddon-d67bcbe2"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-mini-crossword",
+            "https://www.coolmathgames.com/0-hidden-objects-island",
+            "https://www.coolmathgames.com/0-zip-by-linkedin",
+            "https://www.coolmathgames.com/0-super-diamond-dwarves"
         ]
     }
 }
