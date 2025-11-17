@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": "2025-11-01_05-15-12",
-        "total_new_urls": 1
-    },
-    {
         "timestamp": "2025-11-03_01-19-04",
         "total_new_urls": 2
     },
@@ -118,5 +114,9 @@
     {
         "timestamp": "2025-11-15_16-17-53",
         "total_new_urls": 4
+    },
+    {
+        "timestamp": "2025-11-17_10-19-25",
+        "total_new_urls": 3
     }
 ]

@@ -1,12 +1,11 @@
 {
-    "timestamp": "2025-11-15_16-17-53",
-    "crawl_time": "2025-11-15 16:17:53",
+    "timestamp": "2025-11-17_10-19-25",
+    "crawl_time": "2025-11-17 10:19:25",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-mini-crossword",
-            "https://www.coolmathgames.com/0-hidden-objects-island",
-            "https://www.coolmathgames.com/0-zip-by-linkedin",
-            "https://www.coolmathgames.com/0-super-diamond-dwarves"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/ski-rush-6d40c11e",
+            "https://poki.com/en/g/9-worlds-b739c6e0",
+            "https://poki.com/en/g/swarmageddon"
         ]
     }
 }
