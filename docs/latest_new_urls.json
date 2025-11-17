@@ -1,11 +1,9 @@
 {
-    "timestamp": "2025-11-17_11-15-22",
-    "crawl_time": "2025-11-17 11:15:22",
+    "timestamp": "2025-11-17_16-22-53",
+    "crawl_time": "2025-11-17 16:22:53",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/crush-collect-b6992c7e",
-            "https://poki.com/en/g/police-vs-thief-0e5db185",
-            "https://poki.com/en/g/cozzyville-find-hidden-objects-558dc998"
+            "https://poki.com/en/g/pizza-day"
         ]
     }
 }
