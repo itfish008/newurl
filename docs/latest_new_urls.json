@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-11-19_08-22-53",
-    "crawl_time": "2025-11-19 08:22:53",
+    "timestamp": "2025-11-21_16-21-22",
+    "crawl_time": "2025-11-21 16:21:22",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-twisted-maze-sama"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/decor-life"
         ]
     }
 }
