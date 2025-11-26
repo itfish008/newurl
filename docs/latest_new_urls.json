@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-11-24_19-12-11",
-    "crawl_time": "2025-11-24 19:12:11",
+    "timestamp": "2025-11-26_20-18-59",
+    "crawl_time": "2025-11-26 20:18:59",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-blockables",
-            "https://www.coolmathgames.com/0-save-the-duck"
+            "https://www.coolmathgames.com/0-get-a-screw"
         ]
     }
 }
