@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-11-26_20-18-59",
-    "crawl_time": "2025-11-26 20:18:59",
+    "timestamp": "2025-11-28_18-23-50",
+    "crawl_time": "2025-11-28 18:23:50",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-get-a-screw"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/brain-test-special"
         ]
     }
 }
