@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-12-04_16-24-39",
-    "crawl_time": "2025-12-04 16:24:39",
+    "timestamp": "2025-12-04_22-15-00",
+    "crawl_time": "2025-12-04 22:15:00",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/little-tricky-prankster"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-blokmatik"
         ]
     }
 }
