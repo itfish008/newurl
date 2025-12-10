@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-12-09_16-23-53",
-    "crawl_time": "2025-12-09 16:23:53",
+    "timestamp": "2025-12-10_19-15-46",
+    "crawl_time": "2025-12-10 19:15:46",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/the-superhero-league-2"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-swaps-and-stones"
         ]
     }
 }
