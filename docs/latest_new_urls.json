@@ -1,11 +1,10 @@
 {
-    "timestamp": "2025-12-12_20-19-27",
-    "crawl_time": "2025-12-12 20:19:27",
+    "timestamp": "2025-12-14_20-18-27",
+    "crawl_time": "2025-12-14 20:18:27",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/trivia/understanding-interest",
-            "https://www.coolmathgames.com/0-tap-out-gallery",
-            "https://www.coolmathgames.com/c/bubble-shooter-games"
+            "https://www.coolmathgames.com/0-king-court-chess",
+            "https://www.coolmathgames.com/0-redirect"
         ]
     }
 }
