@@ -1,10 +1,9 @@
 {
-    "timestamp": "2025-12-23_18-26-29",
-    "crawl_time": "2025-12-23 18:26:29",
+    "timestamp": "2025-12-24_16-21-47",
+    "crawl_time": "2025-12-24 16:21:47",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/collect-n-evolve",
-            "https://poki.com/en/g/pizza-planet"
+            "https://poki.com/en/g/snow-riders"
         ]
     }
 }
