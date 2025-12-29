@@ -1,9 +1,9 @@
 {
-    "timestamp": "2025-12-24_16-21-47",
-    "crawl_time": "2025-12-24 16:21:47",
+    "timestamp": "2025-12-29_17-16-14",
+    "crawl_time": "2025-12-29 17:16:14",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/snow-riders"
+            "https://poki.com/en/g/mr-squarely"
         ]
     }
 }
