@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-01-07_17-23-42",
-    "crawl_time": "2026-01-07 17:23:42",
+    "timestamp": "2026-01-07_21-17-29",
+    "crawl_time": "2026-01-07 21:17:29",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/carrom-multiplayer"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-type-invaders"
         ]
     }
 }
