@@ -1,9 +1,10 @@
 {
-    "timestamp": "2026-01-07_21-17-29",
-    "crawl_time": "2026-01-07 21:17:29",
+    "timestamp": "2026-01-09_21-18-03",
+    "crawl_time": "2026-01-09 21:18:03",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-type-invaders"
+            "https://www.coolmathgames.com/0-primary",
+            "https://www.coolmathgames.com/0-redirect-game"
         ]
     }
 }
