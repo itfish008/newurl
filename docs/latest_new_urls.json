@@ -1,10 +1,10 @@
 {
-    "timestamp": "2026-01-09_21-18-03",
-    "crawl_time": "2026-01-09 21:18:03",
+    "timestamp": "2026-01-11_21-15-55",
+    "crawl_time": "2026-01-11 21:15:55",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-primary",
-            "https://www.coolmathgames.com/0-redirect-game"
+            "https://www.coolmathgames.com/0-maze-3d",
+            "https://www.coolmathgames.com/0-opposite-day-2"
         ]
     }
 }
