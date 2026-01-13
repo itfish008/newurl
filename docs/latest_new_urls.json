@@ -1,10 +1,9 @@
 {
-    "timestamp": "2026-01-11_21-15-55",
-    "crawl_time": "2026-01-11 21:15:55",
+    "timestamp": "2026-01-13_17-24-05",
+    "crawl_time": "2026-01-13 17:24:05",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-maze-3d",
-            "https://www.coolmathgames.com/0-opposite-day-2"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/keyboard-warrior"
         ]
     }
 }
