@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-01-13_17-24-05",
-    "crawl_time": "2026-01-13 17:24:05",
+    "timestamp": "2026-01-13_21-18-18",
+    "crawl_time": "2026-01-13 21:18:18",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/keyboard-warrior"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-about-a-frog"
         ]
     }
 }
