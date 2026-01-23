@@ -1,9 +1,10 @@
 {
-    "timestamp": "2026-01-22_17-26-01",
-    "crawl_time": "2026-01-22 17:26:01",
+    "timestamp": "2026-01-23_21-18-38",
+    "crawl_time": "2026-01-23 21:18:38",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/cat-simulator"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-septagon",
+            "https://www.coolmathgames.com/blog/how-we-review-and-approve-games"
         ]
     }
 }
