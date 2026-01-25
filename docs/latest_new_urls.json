@@ -1,10 +1,10 @@
 {
-    "timestamp": "2026-01-23_21-18-38",
-    "crawl_time": "2026-01-23 21:18:38",
+    "timestamp": "2026-01-25_21-16-25",
+    "crawl_time": "2026-01-25 21:16:25",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-septagon",
-            "https://www.coolmathgames.com/blog/how-we-review-and-approve-games"
+            "https://www.coolmathgames.com/0-cozy-blocks",
+            "https://www.coolmathgames.com/0-lunar-phase-battle"
         ]
     }
 }
