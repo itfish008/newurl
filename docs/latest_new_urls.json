@@ -1,9 +1,10 @@
 {
-    "timestamp": "2026-01-30_15-30-51",
-    "crawl_time": "2026-01-30 15:30:51",
+    "timestamp": "2026-02-01_02-01-46",
+    "crawl_time": "2026-02-01 02:01:46",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/diva-makeup-studio"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-patterned",
+            "https://www.coolmathgames.com/0-bus-parking-out"
         ]
     }
 }
