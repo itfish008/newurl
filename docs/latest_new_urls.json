@@ -1,10 +1,9 @@
 {
-    "timestamp": "2026-02-01_02-01-46",
-    "crawl_time": "2026-02-01 02:01:46",
+    "timestamp": "2026-02-02_14-52-32",
+    "crawl_time": "2026-02-02 14:52:32",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-patterned",
-            "https://www.coolmathgames.com/0-bus-parking-out"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/janes-fashion-studio"
         ]
     }
 }
