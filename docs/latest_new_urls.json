@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-02-02_14-52-32",
-    "crawl_time": "2026-02-02 14:52:32",
+    "timestamp": "2026-02-03_15-45-14",
+    "crawl_time": "2026-02-03 15:45:14",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/janes-fashion-studio"
+            "https://poki.com/en/g/idle-spinner-factory-builder"
         ]
     }
 }
