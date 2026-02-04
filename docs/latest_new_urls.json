@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-02-03_15-45-14",
-    "crawl_time": "2026-02-03 15:45:14",
+    "timestamp": "2026-02-04_16-42-17",
+    "crawl_time": "2026-02-04 16:42:17",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/idle-spinner-factory-builder"
+            "https://poki.com/en/g/push-titans"
         ]
     }
 }
