@@ -1,10 +1,9 @@
 {
-    "timestamp": "2026-02-06_17-38-48",
-    "crawl_time": "2026-02-06 17:38:48",
+    "timestamp": "2026-02-06_22-19-46",
+    "crawl_time": "2026-02-06 22:19:46",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/4th-and-goal-2026",
-            "https://poki.com/en/g/first-and-ten"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-hidden-antique-shop-2"
         ]
     }
 }
