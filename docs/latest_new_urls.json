@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-02-06_22-19-46",
-    "crawl_time": "2026-02-06 22:19:46",
+    "timestamp": "2026-02-08_22-23-11",
+    "crawl_time": "2026-02-08 22:23:11",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-hidden-antique-shop-2"
+            "https://www.coolmathgames.com/0-kingdom-puzzles"
         ]
     }
 }
