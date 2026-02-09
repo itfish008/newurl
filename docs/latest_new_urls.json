@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-02-08_22-23-11",
-    "crawl_time": "2026-02-08 22:23:11",
+    "timestamp": "2026-02-09_17-48-45",
+    "crawl_time": "2026-02-09 17:48:45",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-kingdom-puzzles"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/bot-crash"
         ]
     }
 }
