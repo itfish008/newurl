@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-02-09_17-48-45",
-    "crawl_time": "2026-02-09 17:48:45",
+    "timestamp": "2026-02-10_22-36-25",
+    "crawl_time": "2026-02-10 22:36:25",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/bot-crash"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-way-of-knight-2"
         ]
     }
 }
