@@ -1,9 +1,10 @@
 {
-    "timestamp": "2026-02-13_14-52-02",
-    "crawl_time": "2026-02-13 14:52:02",
+    "timestamp": "2026-02-14_23-20-46",
+    "crawl_time": "2026-02-14 23:20:46",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/67-game"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-prankster-shuffle",
+            "https://www.coolmathgames.com/0-castle-blocks"
         ]
     }
 }
