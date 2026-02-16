@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-02-16_16-38-51",
-    "crawl_time": "2026-02-16 16:38:51",
+    "timestamp": "2026-02-16_23-26-11",
+    "crawl_time": "2026-02-16 23:26:11",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/bot-crash-combat-arena-4cd608f5"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-axe-master"
         ]
     }
 }
