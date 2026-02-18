@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-02-16_23-26-11",
-    "crawl_time": "2026-02-16 23:26:11",
+    "timestamp": "2026-02-18_23-26-24",
+    "crawl_time": "2026-02-18 23:26:24",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-axe-master"
+            "https://www.coolmathgames.com/0-match-food"
         ]
     }
 }
