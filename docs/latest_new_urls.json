@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-02-24_23-28-15",
-    "crawl_time": "2026-02-24 23:28:15",
+    "timestamp": "2026-02-25_09-51-31",
+    "crawl_time": "2026-02-25 09:51:31",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-flowcute"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/fashion-legends"
         ]
     }
 }
