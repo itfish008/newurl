@@ -1,9 +1,10 @@
 {
-    "timestamp": "2026-02-25_09-51-31",
-    "crawl_time": "2026-02-25 09:51:31",
+    "timestamp": "2026-02-26_16-54-41",
+    "crawl_time": "2026-02-26 16:54:41",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/fashion-legends"
+            "https://poki.com/en/g/tuning-car-racing",
+            "https://poki.com/en/g/diy-desk-designer"
         ]
     }
 }
