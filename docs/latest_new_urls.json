@@ -1,11 +1,9 @@
 {
-    "timestamp": "2026-02-28_23-18-35",
-    "crawl_time": "2026-02-28 23:18:35",
+    "timestamp": "2026-03-02_01-51-03",
+    "crawl_time": "2026-03-02 01:51:03",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/trivia/buying-a-car-things-to-know",
-            "https://www.coolmathgames.com/0-4x4-chess",
-            "https://www.coolmathgames.com/0-tower-builder"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/crazy-merge"
         ]
     }
 }
