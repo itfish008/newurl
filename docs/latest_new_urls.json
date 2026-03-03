@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-03-02_01-51-03",
-    "crawl_time": "2026-03-02 01:51:03",
+    "timestamp": "2026-03-03_16-42-10",
+    "crawl_time": "2026-03-03 16:42:10",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/crazy-merge"
+            "https://poki.com/en/g/free-skate"
         ]
     }
 }
