@@ -1,10 +1,9 @@
 {
-    "timestamp": "2026-03-04_23-27-00",
-    "crawl_time": "2026-03-04 23:27:00",
+    "timestamp": "2026-03-05_18-00-24",
+    "crawl_time": "2026-03-05 18:00:24",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-ziel",
-            "https://www.coolmathgames.com/0-ball-drop"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/magic-battleground"
         ]
     }
 }
