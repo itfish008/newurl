@@ -1,9 +1,10 @@
 {
-    "timestamp": "2026-03-06_23-24-49",
-    "crawl_time": "2026-03-06 23:24:49",
+    "timestamp": "2026-03-08_23-20-42",
+    "crawl_time": "2026-03-08 23:20:42",
     "urls": {
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-scavenger-quest"
+            "https://www.coolmathgames.com/0-bowling-challenge",
+            "https://www.coolmathgames.com/0-zerko-lite"
         ]
     }
 }
