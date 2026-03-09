@@ -1,10 +1,9 @@
 {
-    "timestamp": "2026-03-08_23-20-42",
-    "crawl_time": "2026-03-08 23:20:42",
+    "timestamp": "2026-03-09_15-55-39",
+    "crawl_time": "2026-03-09 15:55:39",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-bowling-challenge",
-            "https://www.coolmathgames.com/0-zerko-lite"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/blast-buddies"
         ]
     }
 }
