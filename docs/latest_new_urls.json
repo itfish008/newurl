@@ -1,10 +1,9 @@
 {
-    "timestamp": "2026-03-12_23-24-58",
-    "crawl_time": "2026-03-12 23:24:58",
+    "timestamp": "2026-03-13_17-32-02",
+    "crawl_time": "2026-03-13 17:32:02",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-drop-it",
-            "https://www.coolmathgames.com/0-turn-into-light"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/cozyville-find-hidden-objects"
         ]
     }
 }
