@@ -1,10 +1,9 @@
 {
-    "timestamp": "2026-03-15_02-03-31",
-    "crawl_time": "2026-03-15 02:03:31",
+    "timestamp": "2026-03-16_17-57-36",
+    "crawl_time": "2026-03-16 17:57:36",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-more-sushi",
-            "https://www.coolmathgames.com/0-fill-pix"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/fashion-tour-simulator"
         ]
     }
 }
