@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-03-16_17-57-36",
-    "crawl_time": "2026-03-16 17:57:36",
+    "timestamp": "2026-03-17_01-52-01",
+    "crawl_time": "2026-03-17 01:52:01",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/fashion-tour-simulator"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-lumibus"
         ]
     }
 }
