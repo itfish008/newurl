@@ -1,9 +1,11 @@
 {
-    "timestamp": "2026-03-24_19-54-04",
-    "crawl_time": "2026-03-24 19:54:04",
+    "timestamp": "2026-03-25_01-55-42",
+    "crawl_time": "2026-03-25 01:55:42",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/dino-fighter"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-tetrix",
+            "https://www.coolmathgames.com/0-car-out",
+            "https://www.coolmathgames.com/c/financial-literacy-games"
         ]
     }
 }
