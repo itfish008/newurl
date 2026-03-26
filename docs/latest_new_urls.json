@@ -1,11 +1,9 @@
 {
-    "timestamp": "2026-03-25_01-55-42",
-    "crawl_time": "2026-03-25 01:55:42",
+    "timestamp": "2026-03-26_19-15-42",
+    "crawl_time": "2026-03-26 19:15:42",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-tetrix",
-            "https://www.coolmathgames.com/0-car-out",
-            "https://www.coolmathgames.com/c/financial-literacy-games"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/merge-ink"
         ]
     }
 }
