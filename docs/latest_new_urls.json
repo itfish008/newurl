@@ -1,19 +1,13 @@
 {
-    "timestamp": "2026-03-29_06-59-02",
-    "crawl_time": "2026-03-29 06:59:02",
+    "timestamp": "2026-04-01_02-12-10",
+    "crawl_time": "2026-04-01 02:12:10",
     "urls": {
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/cleanup-crew",
+            "https://poki.com/en/g/soccer-skills-2-world-cup"
+        ],
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/trivia/savvy-shopper-tips-tricks",
-            "https://www.coolmathgames.com/trivia/budgeting-basics",
-            "https://www.coolmathgames.com/trivia/saving-for-college",
-            "https://www.coolmathgames.com/0-outside",
-            "https://www.coolmathgames.com/0-math-invaders",
-            "https://www.coolmathgames.com/0-super-lemon-basket",
-            "https://www.coolmathgames.com/0-2048-cards",
-            "https://www.coolmathgames.com/blog/cookie-clicker-mobile-guide",
-            "https://www.coolmathgames.com/0-stem-strike",
-            "https://www.coolmathgames.com/0-cash-clash",
-            "https://www.coolmathgames.com/quiz-category/financial-literacy"
+            "https://www.coolmathgames.com/0-chess-match"
         ]
     }
 }
