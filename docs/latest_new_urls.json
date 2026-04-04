@@ -1,9 +1,20 @@
 {
-    "timestamp": "2026-04-01_16-50-28",
-    "crawl_time": "2026-04-01 16:50:28",
+    "timestamp": "2026-04-04_06-56-47",
+    "crawl_time": "2026-04-04 06:56:47",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/snacky-snake"
+            "https://poki.com/en/g/bunny-miner",
+            "https://poki.com/en/g/pixel-perfect"
+        ],
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/trivia/scam-awareness",
+            "https://www.coolmathgames.com/trivia/credit-cards-scores-and-more",
+            "https://www.coolmathgames.com/0-bit-soup",
+            "https://www.coolmathgames.com/0-blastify-2",
+            "https://www.coolmathgames.com/0-slice-of-the-market",
+            "https://www.coolmathgames.com/0-dont-get-duped",
+            "https://www.coolmathgames.com/0-tax-season-audit-adventure",
+            "https://www.coolmathgames.com/0-investor-tower"
         ]
     }
 }
