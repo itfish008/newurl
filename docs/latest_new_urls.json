@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-04-10_15-49-52",
-    "crawl_time": "2026-04-10 15:49:52",
+    "timestamp": "2026-04-12_07-09-38",
+    "crawl_time": "2026-04-12 07:09:38",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/going-up-rooftop"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/slice-of-the-market-music-credits"
         ]
     }
 }
