@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-04-12_07-09-38",
-    "crawl_time": "2026-04-12 07:09:38",
+    "timestamp": "2026-04-13_17-00-40",
+    "crawl_time": "2026-04-13 17:00:40",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/slice-of-the-market-music-credits"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/draft-wars"
         ]
     }
 }
