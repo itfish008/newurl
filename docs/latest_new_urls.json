@@ -1,9 +1,10 @@
 {
-    "timestamp": "2026-04-14_14-48-48",
-    "crawl_time": "2026-04-14 14:48:48",
+    "timestamp": "2026-04-14_16-04-46",
+    "crawl_time": "2026-04-14 16:04:46",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/duck-merge"
+            "https://poki.com/en/g/drift-hunters",
+            "https://poki.com/en/g/satisbox-builder"
         ]
     }
 }
