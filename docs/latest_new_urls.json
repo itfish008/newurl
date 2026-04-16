@@ -1,10 +1,11 @@
 {
-    "timestamp": "2026-04-14_16-04-46",
-    "crawl_time": "2026-04-14 16:04:46",
+    "timestamp": "2026-04-16_07-26-55",
+    "crawl_time": "2026-04-16 07:26:55",
     "urls": {
-        "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/drift-hunters",
-            "https://poki.com/en/g/satisbox-builder"
+        "https://coolmathgames.com/sitemap.xml": [
+            "https://www.coolmathgames.com/0-mystic-square-mystery-trail",
+            "https://www.coolmathgames.com/0-onioniq",
+            "https://www.coolmathgames.com/0-cryptid-kimber-budget-beest"
         ]
     }
 }
