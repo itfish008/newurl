@@ -1,9 +1,9 @@
 {
-    "timestamp": "2026-04-18_07-02-49",
-    "crawl_time": "2026-04-18 07:02:49",
+    "timestamp": "2026-04-20_17-54-22",
+    "crawl_time": "2026-04-20 17:54:22",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-two-dots-remastered"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/wheel-master"
         ]
     }
 }
