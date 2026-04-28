@@ -1,9 +1,12 @@
 {
-    "timestamp": "2026-04-26_07-24-02",
-    "crawl_time": "2026-04-26 07:24:02",
+    "timestamp": "2026-04-28_08-21-22",
+    "crawl_time": "2026-04-28 08:21:22",
     "urls": {
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/basketball-real"
+        ],
         "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-draw-n-bounce"
+            "https://www.coolmathgames.com/0-lovux"
         ]
     }
 }
