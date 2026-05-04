@@ -1,12 +1,9 @@
 {
-    "timestamp": "2026-05-04_09-15-03",
-    "crawl_time": "2026-05-04 09:15:03",
+    "timestamp": "2026-05-04_17-44-37",
+    "crawl_time": "2026-05-04 17:44:37",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-electron-dash",
-            "https://www.coolmathgames.com/blog/introducing-financial-literacy-games",
-            "https://www.coolmathgames.com/blog/how-to-play-more-sushi",
-            "https://www.coolmathgames.com/blog/drift-boss-2026-update"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/annoying-teacher-punch-game"
         ]
     }
 }
