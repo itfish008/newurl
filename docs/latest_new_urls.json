@@ -1,19 +1,9 @@
 {
-    "timestamp": "2026-05-12_09-34-11",
-    "crawl_time": "2026-05-12 09:34:11",
+    "timestamp": "2026-05-12_19-45-29",
+    "crawl_time": "2026-05-12 19:45:29",
     "urls": {
         "https://poki.com/en/sitemaps/games.xml": [
-            "https://poki.com/en/g/goal-gang",
-            "https://poki.com/en/g/marina-club-rush",
-            "https://poki.com/en/g/supercar-legends",
-            "https://poki.com/en/g/clash-of-cards",
-            "https://poki.com/en/g/blumgi-splash"
-        ],
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-hidden-antique-shop-3",
-            "https://www.coolmathgames.com/0-vex-9",
-            "https://www.coolmathgames.com/0-museum-of-dots",
-            "https://www.coolmathgames.com/c/tetronimo-games"
+            "https://poki.com/en/g/tiger-tank-2"
         ]
     }
 }
