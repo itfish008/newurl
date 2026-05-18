@@ -1,10 +1,9 @@
 {
-    "timestamp": "2026-05-18_11-05-00",
-    "crawl_time": "2026-05-18 11:05:00",
+    "timestamp": "2026-05-18_17-58-03",
+    "crawl_time": "2026-05-18 17:58:03",
     "urls": {
-        "https://coolmathgames.com/sitemap.xml": [
-            "https://www.coolmathgames.com/0-vextorial",
-            "https://www.coolmathgames.com/blog/financial-literacy-game-jam"
+        "https://poki.com/en/sitemaps/games.xml": [
+            "https://poki.com/en/g/a-small-world-cup-2"
         ]
     }
 }
